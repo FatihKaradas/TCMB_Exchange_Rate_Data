@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024318619761",
+    "project_id": "tcmbexchanceratedata",
+    "storage_bucket": "tcmbexchanceratedata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024318619761:android:788aa58bca88f76dc45bd0",
+        "android_client_info": {
+          "package_name": "com.example.tcmbexchangeratedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024318619761-d0kcg08fg6gaioe8sok8qlgav6cc766d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4dV0JMHP0IfiZFaqmQIWcqOwci4khbiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024318619761-d0kcg08fg6gaioe8sok8qlgav6cc766d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
